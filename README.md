@@ -11,16 +11,14 @@ A responsive Netflix landing page clone built with HTML and CSS, inspired by Net
 Add screenshots of your project below. You can upload image files to this repository and replace the placeholders with their paths.
 
 ### Homepage
-<!-- Replace the path below with your screenshot file path, for example: screenshots/homepage.png -->
-![Netflix Clone Homepage](screenshots/homepage.png)
+<img width="952" height="538" alt="image" src="https://github.com/user-attachments/assets/4c81c567-bd15-4bc7-a886-1e9cd6d4a87f" />
 
 ### Features Section
-<!-- Replace the path below with your screenshot file path, for example: screenshots/features.png -->
-![Netflix Clone Features](screenshots/features.png)
+<img width="940" height="496" alt="image" src="https://github.com/user-attachments/assets/cb826130-5328-4801-8170-35924cfe1ea8" />
+
 
 ### FAQ and Footer
-<!-- Replace the path below with your screenshot file path, for example: screenshots/faq-footer.png -->
-![Netflix Clone FAQ and Footer](screenshots/faq-footer.png)
+<img width="951" height="539" alt="image" src="https://github.com/user-attachments/assets/9bc52081-98c4-46ca-b504-eb75834e9fb9" />
 
 ## ✨ Features
 
